@@ -22,7 +22,7 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,c" />
+  <img src="https://skillicons.dev/icons?i=python,js" /> 
   <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=react,redux,vite,html,css,tailwind,bootstrap" />

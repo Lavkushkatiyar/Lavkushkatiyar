@@ -23,53 +23,18 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,java,c" />
-</p>
-
-**Backend Development**
-
-<p>
   <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
-</p>
-
-**Frontend Development**
-
-<p>
   <img src="https://skillicons.dev/icons?i=react,redux,vite,html,css,tailwind,bootstrap" />
-</p>
-
-**Databases and Data Access**
-
-<p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-</p>
-
-**Caching and Background Processing**
-
-<p>
   <img src="https://skillicons.dev/icons?i=redis" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-</p>
-
-**AI and LLM Integration**
-
-<p>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-5C6BC0?style=flat-square" />
-</p>
-
-**Tools and Infrastructure**
-
-<p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,bash" />
   <img src="https://img.shields.io/badge/Alembic-333333?style=flat-square" />
-</p>
-
-**Testing and Code Quality**
-
-<p>
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" />
   <img src="https://img.shields.io/badge/Pyright-3776AB?style=flat-square" />

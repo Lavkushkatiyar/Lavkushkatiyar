@@ -67,6 +67,7 @@
 
 | Project | Description |
 |---|---|
+| [ROOMLY](https://github.com/Lavkushkatiyar/Roomly) |  multilingual, voice-first hotel concierge powered by Gnani AI. |
 | [SupportPilot](https://github.com/Lavkushkatiyar/SupportPilot) | AI-assisted customer support system with intent classification, semantic retrieval, and escalation workflows. |
 | [Kairox](https://github.com/Lavkushkatiyar/Kairox) | Natural-language task planning and workflow automation with task dependencies and background processing. |
 | [LoveFolio](https://github.com/Lavkushkatiyar/LoveFolio) | Full-stack developer portfolio built with React and FastAPI. |
